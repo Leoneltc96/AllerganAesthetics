@@ -26,4 +26,10 @@ Versión 1.1.0 [28-Marzo-2022] [Orlando_Carranza]
 | `controllers\actualizaCookie.php` | `0` | **Nuevo archivo** |
 | `controllers\guardaEstadisticas.php` | `11-15` | Actualizacion de codigo para que funcione en produccion y locales |
 | `assets\js\funciones.js` | `690-701` | Hacemos la solicitud al controlador para actualizar la cookie con el timestamp actual |
+| `aprendizaje\aprendizaje.php` | `6-20/285` | Validamos que exista una cookie si es mayor a 1800s cerramos sesion y pedimos credenciales |
+| `materiales\botox.php` | `6-20/312` | Validamos que exista una cookie si es mayor a 1800s cerramos sesion y pedimos credenciales |
+| `materiales\juvederm.php` | `6-20/376` | Validamos que exista una cookie si es mayor a 1800s cerramos sesion y pedimos credenciales |
+| `materiales\salaEspera.php` | `6-20/255` | Validamos que exista una cookie si es mayor a 1800s cerramos sesion y pedimos credenciales |
+| `Galeria\galerias.php` | `6-20/468` | Validamos que exista una cookie si es mayor a 1800s cerramos sesion y pedimos credenciales |
+| `allerganAesthetics.php` | `8-22/827` | Validamos que exista una cookie si es mayor a 1800s cerramos sesion y pedimos credenciales |
 
