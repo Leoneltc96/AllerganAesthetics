@@ -16,7 +16,14 @@ Versión 1.0.0 [25-Marzo-2022] [Leonel_Torres]
 
 ```sh
 Versión 1.1.0 [28-Marzo-2022] [Orlando_Carranza]
-Cambios para cierre de sesion despues de 30 min cuando se cierra la pestaña
 ```
 
+`Cambios para cierre de sesion despues de 30 min cuando se cierra la pestaña`
+
+| Archivos Modificados | Lineas Modificadas     | Description                |
+| :-------- | :------- | :------------------------- |
+| `controllers\login.php` | `37-38` | Creamos una cookie #3 para guardar el usuario firmado y el timestamp del timeLogin |
+| `controllers\actualizaCookie.php` | `0` | **Nuevo archivo** |
+| `controllers\guardaEstadisticas.php` | `11-15` | Actualizacion de codigo para que funcione en produccion y locales |
+| `assets\js\funciones.js` | `690-701` | Hacemos la solicitud al controlador para actualizar la cookie con el timestamp actual |
 
