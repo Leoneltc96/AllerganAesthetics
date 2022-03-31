@@ -15,8 +15,7 @@ Versión 1.0.0 [25-Marzo-2022] [Leonel_Torres]
 | `controllers\login.php` | `47-59` | Modificamos para registrar cuando cierra sesion en la tabla |
 
 ```sh
-Versión 1.1.0 [28-Marzo-2022] [Orlando_Carranza]
-Cambios para cierre de sesion despues de 30 min "cuando se cierra la pestaña
+Versión 1.1.0 [28-Marzo-2022] [Orlando_Carranza] Cambios para cierre de sesion despues de 30 min "cuando se cierra la pestaña
 ```
 
 
