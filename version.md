@@ -69,7 +69,13 @@ Version 1.4.0 [30-Marzo-2022] [Liliana Alvarado]
 | `manager_materiales_botox` | `0` | Se eliminaron los materiales que se pasaron a Juvederm, se modificaron las tablas de AllerganPro y AllerganPro/desarrollo |
 | `manager_materiales_juviderm` | `0` | Se agregaron 3 materiales que se pasaron a Juvederm desde Botox, los materiales se llaman 'Materiales JUVÉDERM® - Realce belleza 1, Materiales JUVÉDERM® - Realce belleza 2, Materiales JUVÉDERM® - Realce belleza 3' se modificaron las tablas de AllerganPro y AllerganPro/desarrollo |
 
+```sh
+Versión 1.0.0 [22-Abril-2022] [Leonel_Torres]
+```
 
+| Archivos Modificados | Lineas Modificadas     | Description                |
+| :-------- | :------- | :------------------------- |
+| `controllers/actualizarPass.php` | `28` | Se agrego una linea de codigo, el cual permite guardar el nuevo pass en el campo password_original de la tabla en BD |
 
 
 
