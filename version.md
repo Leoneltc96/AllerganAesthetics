@@ -2,7 +2,7 @@
 
 
 ```sh
-Versión 1.5.0 [25-Marzo-2022] [Leonel_Torres]
+Versión 1.0.0 [25-Marzo-2022] [Leonel_Torres]
 ```
 
 | Archivos Modificados | Lineas Modificadas     | Description                |
@@ -70,7 +70,7 @@ Version 1.4.0 [30-Marzo-2022] [Liliana Alvarado]
 | `manager_materiales_juviderm` | `0` | Se agregaron 3 materiales que se pasaron a Juvederm desde Botox, los materiales se llaman 'Materiales JUVÉDERM® - Realce belleza 1, Materiales JUVÉDERM® - Realce belleza 2, Materiales JUVÉDERM® - Realce belleza 3' se modificaron las tablas de AllerganPro y AllerganPro/desarrollo |
 
 ```sh
-Versión 1.0.0 [22-Abril-2022] [Leonel_Torres]
+Versión 1.5.0 [22-Abril-2022] [Leonel_Torres]
 ```
 
 | Archivos Modificados | Lineas Modificadas     | Description                |
